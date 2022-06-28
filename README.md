@@ -89,3 +89,4 @@ Election Winner:
 
             Percentage: 73.8%
 
+<img width="284" alt="Election Analysis" src="https://user-images.githubusercontent.com/104540261/176258477-dba55122-8fdd-4249-947b-908c250c30fe.png">
