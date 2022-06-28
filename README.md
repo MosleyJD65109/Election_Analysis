@@ -9,7 +9,9 @@ A Colorado Board of Elections employee requested your help in completing an elec
     5. Determine the winner of the election based on popular vote. 
 ## Resources
 **Data Source:**
+
 **Software:**
+
 ## Summary
 The analysis of the election show that:
 
